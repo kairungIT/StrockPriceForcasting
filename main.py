@@ -50,3 +50,4 @@ st.plotly_chart(fig)
 ####
 #st.write('---')
 #st.write(tickerData.info)
+#test
